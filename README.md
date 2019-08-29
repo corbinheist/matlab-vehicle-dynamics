@@ -1,6 +1,7 @@
 # matlab-vehicle-dynamics
 
-Collection of Matlab-Based Vehicle Dynamics Tools
+My collection of Matlab-Based Vehicle Dynamics Tools
+I will eventually be providing writeups and discussion for some common topics in motorsport engineering.
 
 ## Laptime Simulation
 
