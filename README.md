@@ -10,9 +10,11 @@ Collection of Matlab-Based Vehicle Dynamics Tools
 
 ### Point Mass Simulation
 
+### Quasi Steady State
+
 ## Steady State Wheel Load
 
-### Springs and Stiffness Calculator
+## Springs and Stiffness Calculator
 
 ## Tractive Effort
 
